@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
+//  using yarn package manager with react-bootstrap 
+
 class App extends Component {
   render() {
     return (
